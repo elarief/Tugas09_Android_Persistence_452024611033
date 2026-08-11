@@ -22,8 +22,3 @@ Proyek ini mendemonstrasikan cara menyimpan dan mengelola data secara lokal di p
 * **Bahasa Pemrograman:** Kotlin
 * **UI Framework:** Jetpack Compose / XML (sesuaikan dengan yang digunakan)
 * **Persistence Tech:** Room Database / Shared Preferences (sesuaikan dengan yang digunakan)
-
-## Cara Menjalankan Proyek
-1. Clone repositori ini:
-   ```bash
-   git clone [https://github.com/ABIN-KUN123/ABIN-KUN123-Tugas9_Android_Persistence_452024611054.git](https://github.com/ABIN-KUN123/ABIN-KUN123-Tugas9_Android_Persistence_452024611054.git)
