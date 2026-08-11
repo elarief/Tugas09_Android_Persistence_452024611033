@@ -7,7 +7,7 @@ Repositori ini berisi proyek tugas mata kuliah Pengembangan Aplikasi Mobile yang
 * **NIM:** 452024611033
 * **Kelas:** A1
 * **Program Studi:** Teknik Informatika
-* 
+
 
 ## Deskripsi Proyek
 Proyek ini mendemonstrasikan cara menyimpan dan mengelola data secara lokal di perangkat Android. Fokus utama dari tugas ini adalah implementasi fitur persistensi data (seperti Room Database, Shared Preferences, atau DataStore) untuk menyimpan informasi aplikasi agar tidak hilang saat aplikasi ditutup atau perangkat dimuat ulang.
