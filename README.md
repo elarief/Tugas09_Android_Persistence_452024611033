@@ -3,11 +3,11 @@
 Repositori ini berisi proyek tugas mata kuliah Pengembangan Aplikasi Mobile yang mengimplementasikan **Android Persistence** (Penyimpanan Data di Android).
 
 ## Informasi Mahasiswa
-* **Nama:** Abinaya Azhar Probo Kusumo
-* **NIM:** 452024611054
-* **Kelas:** A
+* **Nama:** Muhammad Nizam Musthofa Al Arif
+* **NIM:** 452024611033
+* **Kelas:** A1
 * **Program Studi:** Teknik Informatika
-* **Universitas:** UNIDA Gontor
+* 
 
 ## Deskripsi Proyek
 Proyek ini mendemonstrasikan cara menyimpan dan mengelola data secara lokal di perangkat Android. Fokus utama dari tugas ini adalah implementasi fitur persistensi data (seperti Room Database, Shared Preferences, atau DataStore) untuk menyimpan informasi aplikasi agar tidak hilang saat aplikasi ditutup atau perangkat dimuat ulang.
